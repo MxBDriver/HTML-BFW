@@ -1,3 +1,31 @@
-h1 { color: darkgreen;
+h1 { 
+    color: red;
+}
 
+h2 {
+    color: yellowgreen;
+}
+
+body {
+    background-color: grey;
+}
+
+#absatz {
+    color: yellow;
+}
+
+img {
+    width: 50em;
+}
+
+#b2 {
+    width: 25em;
+}
+
+.gruen {
+    color: chartreuse;
+}
+
+.big {
+    font-size: 1.8em;
 }
