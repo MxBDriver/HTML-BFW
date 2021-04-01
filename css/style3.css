@@ -1,0 +1,70 @@
+.body {
+    float: left;
+    height: 95vh;
+    width: 95vw;
+}
+
+.head {
+    float: left;
+    width: 100%;
+    height: 15%;
+    background-color: brown;
+}
+
+.center {
+    float: left;
+    width: 100%;
+    height: 75%;
+    background-color: lightblue;
+    font-size: 1.2em;
+    outline: solid;
+}
+
+.footer {
+    float: left;
+    width: 100%;
+    height: 10%;
+    background-color: lightgreen;
+    font-size: 2em;
+    outline: solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center; 
+}
+
+.menu {
+    float: left;
+    height: 99%;
+    width: 20%;
+    background-color: lightgrey;
+    outline: solid;
+    font-size: 4em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center; 
+}
+
+.side {
+    float: right;
+    height: 100%;
+    width: 20%;
+    background-color: lightgrey;
+    
+    
+}
+
+.sidebox {
+    float: right;
+    height: 50%;
+    width: 100%;
+    background-color: lightgrey;
+    outline: solid;
+    font-size: 2em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
